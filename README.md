@@ -1,6 +1,14 @@
 # python-probability
 A repository for studying probability and random process with Python. Many machine learning models and finance applications are based on probability. It is an essential tool for machine learning engieers or financial engineering. 
 
+I take the applied approach to studying probability, which means one should focus on:
+
+* basic definitons of probability
+* how probabilitiy models are derived from, and then used to for different practical problems.
+* what kind of roles does probability play in statistical models
+
+> Warning: do not try to derive all probability distributions and prove the main theories in the short time as you could be immerse youself in the area of analysis and measure theory for at leat 10 years without noticing the fast evolotion of our society. So, get used to it first, and you can spend all your life on this subject in a mathematical and intellectural ways. 
+
 ## References
 
 * STA 663: Computational Statistics and Statistical Computing (2018) from [Duke University](http://people.duke.edu/~ccc14/sta-663-2018/)
