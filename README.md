@@ -7,7 +7,7 @@ I take the applied approach to studying probability, which means one should focu
 * how probabilitiy models are derived from, and then used to for different practical problems.
 * what kind of roles does probability play in statistical models
 
-> Warning: do not try to derive all probability distributions and prove the main theories in the short time as you could be immerse youself in the area of analysis and measure theory for at leat 10 years without noticing the fast evolotion of our society. So, get used to it first, and you can spend all your life on this subject in a mathematical and intellectural ways. 
+> Warning: do not try to derive all probability distributions and prove the main theories in the short time as you could probably end up with immersing youself in the area of analysis and measure theory for at leat 10 years without noticing the fast evolotion of our society. So, get used to it first, and you can spend all your life on this subject in a mathematical and intellectural ways. 
 
 ## References
 
