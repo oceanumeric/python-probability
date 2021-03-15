@@ -13,6 +13,8 @@ I take the applied approach to studying probability, which means one should focu
 
 * STA 663: Computational Statistics and Statistical Computing (2018) from [Duke University](http://people.duke.edu/~ccc14/sta-663-2018/)
 
+* Quantitative Economics with Python by [Sargent, T.J. and Stachurski, J.](https://python.quantecon.org/index_toc.html)
+
 * Probability and Random Processes by [Geoffrey R. Grimmett and David R. Stirzaker](https://www.amazon.co.uk/Probability-Random-Processes-Geoffrey-Grimmett/dp/0198572220)
 
 * Introduction to Probability by [Joseph K. Blitzstein, Jessica Hwang](https://www.amazon.co.uk/Introduction-Probability-Chapman-Statistical-Science/dp/1138369918/ref=sr_1_1?dchild=1&keywords=introduction+to+probability&qid=1614573813&s=books&sr=1-1)
